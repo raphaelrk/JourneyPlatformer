@@ -1,0 +1,6 @@
+// By Raphael Rouvinov-Kats //
+This is a Java based desktop application game that
+Was a spin-off of theCherno's 2D Game Programming tutorial.
+The game was first released around late June 2013 and features
+a King Cherno sprite that gobbles up other King Cherno sprites in
+his radius.
